@@ -5,7 +5,7 @@ use warnings;
 use Carp;
 
 use vars qw($VERSION);
-$VERSION = '0.01';
+$VERSION = '0.02';
 require 5.6.1;
 
 
@@ -140,7 +140,7 @@ Remaining operations are implemented in the version specific module.
 
 =head1 VERSION
 
-This document refers to Device::MegaSquirt version 0.01.
+This document refers to Device::MegaSquirt version 0.02.
 
 =head1 REFERENCES
 

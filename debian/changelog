@@ -1,3 +1,9 @@
+libdevice-megasquirt-perl (0.02-1) unstable; urgency=low
+
+  * new version
+
+ -- Jeremiah Mahler <jmmahler@gmail.com>  Thu, 05 Aug 2010 21:59:40 -0700
+
 libdevice-megasquirt-perl (0.01-1) unstable; urgency=low
   
   * Initial release

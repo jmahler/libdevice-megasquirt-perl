@@ -26,4 +26,4 @@ resources:
   homepage: http://search.cpan.org/dist/Device-Megasquirt/
   license: http://dev.perl.org/licenses/
   repository: http://github.com/jmahler/libdevice-megasquirt-perl
-version: 0.01
+version: 0.02
